@@ -1,11 +1,15 @@
 
 ## This boiler-plate provides:
-react ^17.x
-redux ^4.x
-redux-saga ^1.x
-redux-actions ^2.x
-typescript ^4.x
-axios ^0.21.x
+
+Library | Version
+------------ | -------------
+React | ^17.x
+Redux |  ^4.x
+Redux-Saga | ^1.x
+Redux-Actions | ^2.x
+Typescript | ^4.x
+Axios | ^0.21.x
+ 
 
 
 ### `yarn start`
@@ -41,8 +45,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
