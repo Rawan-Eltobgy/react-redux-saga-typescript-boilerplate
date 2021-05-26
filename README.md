@@ -1,10 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This boiler-plate provides:
+react ^17.x
+redux ^4.x
+redux-saga ^1.x
+redux-actions ^2.x
+typescript ^4.x
+axios ^0.21.x
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `yarn start`
 
